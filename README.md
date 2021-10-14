@@ -7,7 +7,7 @@
 
 - :crown: I’m proud to be part of the mentorship program of [Ivaylo Kenov](https://www.patreon.com/ivaylokenov/posts)
 
-- 💬 Ask me about **C#, .NET Core, ASP.NET Core, EF Core**
+- 💬 Ask me about **C#, .NET Core, ASP.NET Core, EF Core, SQL Server**
 
 - 📫 How to reach me **yavakasolutions@gmail.com**
 
