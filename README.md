@@ -3,15 +3,13 @@
 
 - 🔭 I’m currently working on [Valkar](https://github.com/yavaka/Valkar)
 
-- 🌱 I’m currently learning **React**
-
-- :crown: I’m proud to be part of the mentorship program of [Ivaylo Kenov](https://www.patreon.com/ivaylokenov/posts)
+- 🌱 I’m currently learning **.NET MAUI**
 
 - 💬 Ask me about **C#, .NET Core, ASP.NET Core, EF Core, SQL Server**
 
 - 📫 How to reach me **yavakasolutions@gmail.com**
 
-- ⚡ Fun fact **I am mining ETH :)**
+- ⚡ Fun fact **I am mining ETH :) not any more :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
