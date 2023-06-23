@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Valkar](https://github.com/yavaka/Valkar)
 
-- 🌱 I’m currently learning **.NET MAUI**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **C#, .NET Core, ASP.NET Core, EF Core, SQL Server**
 
