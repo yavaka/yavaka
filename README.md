@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yavor</h1>
 <h3 align="center">A passionate .Net developer</h3>
 
-- 🔭 I’m currently working on [Valkar](https://github.com/yavaka/Valkar)
+- 🔭 I’m currently working on [MTMA](https://github.com/yavaka/MockTests)
 
 - 🌱 I’m currently learning **Flutter**
 
