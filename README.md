@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yavor</h1>
 <h3 align="center">A passionate .Net developer</h3>
 
-- 🔭 I’m currently working on [MTMA](https://github.com/yavaka/MockTests)
-
-- 🌱 I’m currently learning **Flutter**
-
-- 💬 Ask me about **C#, .NET Core, ASP.NET Core, EF Core, SQL Server**
+- 💬 Ask me about **C#, .NET Core, ASP.NET Core, EF Core, SQL Server, Azure/AWS/GCP**
 
 - 📫 How to reach me **yavakasolutions@gmail.com**
 
